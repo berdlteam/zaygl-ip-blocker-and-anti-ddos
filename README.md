@@ -1,5 +1,7 @@
 # 🛡️ Zaygl – IP Blocker & Anti-DDoS for WordPress
 
+![Zaygl](./assets/Blocker-Gateway-banner.png)
+
 Monitor visitor activity, detect suspicious traffic, and block unwanted IP addresses with one click.
 
 ---
